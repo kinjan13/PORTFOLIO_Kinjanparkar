@@ -13,11 +13,11 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     // RogFreeGithub : "https://github.com/DevanshSahni/Rog-Free",
     // RogFreeWebsite : "https://devanshsahni.github.io/Rog-Free/",
 
-    TravelDesc:"A newsletter signup site made using Mailchimp API where the signups can be monitored from the MailChimp account. This project was made to understand API integration, environment variables and vercel deployment.",
+    TravelDesc:"Travel All is a web application showcasing travel destinations, itineraries, or services. The interface is interactive, relying on JavaScript for dynamic content and user interaction.",
     TravelGithub:"https://github.com/kinjan13/Travel_Web",
     NewsletterWebsite:"https://travel-web-mu-five.vercel.app/",
     
-   ChatbotWeatherDesc:"An innovative pet management web app enabling pet parents to create unique pet IDs, securely store and share vaccination records, and generate QR codes for pet profiles, enhancing safety.",
+   ChatbotWeatherDesc:"I’m excited about Agentic AI because it can autonomously optimize supply chains, reduce inefficiencies, and improve delivery reliability, making logistics smarter and more adaptive..",
     ChatbotWeatherGithub:"https://github.com/kinjan13/Kinjan-Parkar_Mastra",
     WigglesWebsite:"https://kinjan-parkar-mastra.vercel.app/",
   }
