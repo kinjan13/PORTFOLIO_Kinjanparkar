@@ -3,6 +3,10 @@ import ProjectBox from './ProjectBox';
 import NewsletterImage from '../images/NewsletterImage.png';
 import TindogImage from '../images/TindogImage.png';
 import WigglesImage from '../images/WigglesImage.png';
+import Portfolio from '../images/Portfolio.png';
+import JaruratCare from '../images/JaruratCare.png';
+import ShopifyWebDevelopment from '../images/ShopifyWebDevelopment.png';
+
 
 const Projects = () => {
   return (
@@ -13,6 +17,10 @@ const Projects = () => {
         <ProjectBox projectPhoto={NewsletterImage} projectName="Travel" />
         
         <ProjectBox projectPhoto={TindogImage} projectName="HarshPortfolio" />
+        <ProjectBox projectPhoto={Portfolio} projectName="Portfolio" />
+        <ProjectBox projectPhoto={JaruratCare} projectName="JaruratCare" />
+        <ProjectBox projectPhoto={ShopifyWebDevelopment} projectName="ShopifyWebDevelopment" />
+
       </div>
 
     </div>
