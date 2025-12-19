@@ -13,9 +13,6 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     
     ChatbotWeatherDesc:"I’m excited about Agentic AI because it can autonomously optimize supply chains, reduce inefficiencies, and improve delivery reliability, making logistics smarter and more adaptive.",
     ChatbotWeatherGithub:"https://github.com/kinjan13/Kinjan-Parkar_Mastra",
-    
-    PortfolioDesc:"Kinjan Parkar’s Personal Portfolio A React-powered portfolio website showcasing my educational journey, academic achievements, and key milestones. Clean, modern design with timeline layout and attention to UX.",
-    PortfolioGithub:"https://github.com/kinjan13/PORTFOLIO_Kinjanparkar",
    
     JaruratCareDesc:"Patient Records Dashboard is a simple yet functional web application built with React to manage and display patient information for Jarurat Care. The project demonstrates proficiency in React, state management, json file, and responsive UI design.",
     JaruratCareGithub:"https://github.com/kinjan13/Jarurat-Care",
@@ -23,7 +20,11 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     ShopifyWebDevelopmentDesc:"This repository showcases a responsive e-commerce product page developed using HTML, CSS, and Vanilla JavaScript. It features an interactive image gallery, color swatches, size selection, and a persistent shopping cart utilizing localStorage. The project demonstrates proficiency in front-end development and user interface design.",
     ShopifyWebDevelopmentGithub:"https://github.com/kinjan13/Shopify-Web-Development-internship",
 
+    PortfolioDesc:"Kinjan Parkar’s Personal Portfolio A React-powered portfolio website showcasing my educational journey, academic achievements, and key milestones. Clean, modern design with timeline layout and attention to UX.",
+    PortfolioGithub:"https://github.com/kinjan13/PORTFOLIO_Kinjanparkar",
 
+    SttDesc:"Speech-to-Text Converter is a web application that leverages the Web Speech API to convert spoken words into written text in real-time. Built with HTML, CSS, and JavaScript, it offers a user-friendly interface for seamless voice-to-text transcription.",
+    SttGithub:"https://github.com/kinjan13/speech-to-text-frontend1",
 
     
   }
